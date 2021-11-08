@@ -40,7 +40,9 @@ PUT http://localhost:8080/cartas/id - Atualiza carta com ID específico
 DELETE  http://localhost:8080/cartas/2 - Exclui carta com id específico
 
 
-
+OBS:
+	Na raiz do repositório encontra-se uma collection para teste no postman
+	em json.
 
 
 
