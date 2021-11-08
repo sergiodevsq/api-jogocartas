@@ -1,0 +1,10 @@
+br/net/sq/cartas/services/exceptions/ObjectNotFoundException.class
+br/net/sq/cartas/models/Classe.class
+br/net/sq/cartas/resources/exceptions/StandardError.class
+br/net/sq/cartas/repositories/CartaRepository.class
+br/net/sq/cartas/services/CartaService.class
+br/net/sq/cartas/models/Carta.class
+br/net/sq/cartas/models/Tipo.class
+br/net/sq/cartas/resources/exceptions/ResourceExceptionHandler.class
+br/net/sq/cartas/CartasApplication.class
+br/net/sq/cartas/resources/CartaResource.class

@@ -1,0 +1,10 @@
+/home/sergio/projetos/eclipse/javaee/cartas/src/main/java/br/net/sq/cartas/CartasApplication.java
+/home/sergio/projetos/eclipse/javaee/cartas/src/main/java/br/net/sq/cartas/models/Carta.java
+/home/sergio/projetos/eclipse/javaee/cartas/src/main/java/br/net/sq/cartas/resources/CartaResource.java
+/home/sergio/projetos/eclipse/javaee/cartas/src/main/java/br/net/sq/cartas/models/Tipo.java
+/home/sergio/projetos/eclipse/javaee/cartas/src/main/java/br/net/sq/cartas/repositories/CartaRepository.java
+/home/sergio/projetos/eclipse/javaee/cartas/src/main/java/br/net/sq/cartas/resources/exceptions/StandardError.java
+/home/sergio/projetos/eclipse/javaee/cartas/src/main/java/br/net/sq/cartas/services/exceptions/ObjectNotFoundException.java
+/home/sergio/projetos/eclipse/javaee/cartas/src/main/java/br/net/sq/cartas/resources/exceptions/ResourceExceptionHandler.java
+/home/sergio/projetos/eclipse/javaee/cartas/src/main/java/br/net/sq/cartas/services/CartaService.java
+/home/sergio/projetos/eclipse/javaee/cartas/src/main/java/br/net/sq/cartas/models/Classe.java
