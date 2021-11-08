@@ -26,7 +26,7 @@ POST http://localhost:8080/cartas    - Inserir carta passando no corpo da
 	}
 
 PUT http://localhost:8080/cartas/id - Atualiza carta com ID específico
-					passando os dados no corpo da requisição
+					passando os dados no corpo da requisição:
 	{
         "nome": "Rainha de Copas",
         "descricao": "Segunda carta jogo",
